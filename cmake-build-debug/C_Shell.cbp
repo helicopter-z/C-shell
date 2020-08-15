@@ -78,6 +78,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/HelenZhang/CLionProjects/C-Shell/built_in_functions.h">
+			<Option target="C_Shell"/>
+		</Unit>
 		<Unit filename="/Users/HelenZhang/CLionProjects/C-Shell/main.c">
 			<Option target="C_Shell"/>
 		</Unit>
