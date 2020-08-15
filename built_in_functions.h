@@ -75,7 +75,7 @@ int hzsh_cat (char** args) {
         }
         do {
             getline(&buf, &buf_size, stdin);
-            printf("%s\n", buf);
+            printf("%s", buf);
         } while (1);
     } else {
         char buf[1];
